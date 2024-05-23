@@ -1,0 +1,119 @@
+{
+    "posts": [
+      {
+        "id": "1",
+        "title": "a title",
+        "views": 100
+      },
+      {
+        "id": "2",
+        "title": "another title",
+        "views": 200
+      }
+    ],
+    "users": [
+      {
+        "id": "0eff",
+        "fullName": "M Rahul",
+        "email": "msrahul7823@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "fcc6",
+        "fullName": "M Rahul",
+        "email": "msrahul7823@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "6bc4",
+        "fullName": "M Rahul",
+        "email": "msrahul7823@gmail.com",
+        "password": "32"
+      },
+      {
+        "id": "3b06",
+        "fullName": "rr",
+        "email": "r@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "b003",
+        "fullName": "M Rahul",
+        "email": "msrahul7823@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "9f09",
+        "fullName": "test",
+        "email": "test@gmail.com",
+        "password": "1234"
+      }
+    ],
+    "employess": [
+      {
+        "name": "rahuls",
+        "email": "rahul@gmail.com",
+        "gender": "Male",
+        "education": "Diploma",
+        "company": "google",
+        "experience": "1",
+        "package": "3",
+        "id": "1"
+      },
+      {
+        "id": "e40a",
+        "name": "test",
+        "email": "test@gmail.com",
+        "gender": "Male",
+        "education": "Diploma",
+        "company": "testcom",
+        "experience": 1,
+        "package": 6
+      },
+      {
+        "id": "036e",
+        "name": "final",
+        "email": "final@gmail.com",
+        "gender": "Male",
+        "education": "Diploma",
+        "company": "ficom",
+        "experience": 2,
+        "package": 4
+      },
+      {
+        "id": "1173",
+        "name": "test1",
+        "email": "test1@gmail.com",
+        "gender": "Others",
+        "education": "Interminate",
+        "company": "test1com",
+        "experience": 2,
+        "package": 3
+      },
+      {
+        "name": "test13",
+        "email": "test13@gmail.com",
+        "gender": "Male",
+        "education": "Graduate",
+        "company": "test13com",
+        "experience": 3,
+        "package": 32,
+        "id": "0734"
+      }
+    ],
+    "comments": [
+      {
+        "id": "1",
+        "text": "a comment about post 1",
+        "postId": "1"
+      },
+      {
+        "id": "2",
+        "text": "another comment about post 1",
+        "postId": "1"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
